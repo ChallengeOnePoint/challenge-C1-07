@@ -1,0 +1,14 @@
+[
+  {
+    "stateName": "dashboards",
+    "urlPrefix": "/dashboards",
+    "type": "load",
+    "src": "app/dashboard/dashboard"
+  },
+  {
+    "stateName": "forms",
+    "urlPrefix": "/forms",
+    "type": "load",
+    "src": "app/forms/forms"
+  }
+]

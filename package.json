@@ -1,0 +1,23 @@
+{
+  "name": "geoloc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "compression": "^1.6.1",
+    "connect-mongo": "^1.1.0",
+    "cookie-parser": "^1.4.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.6",
+    "path": "^0.12.7"
+  }
+}
